@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyWorld</string>
+    <string name="image">Image</string>
+    <string name="video">Video</string>
+    <string name="title">Title</string>
+    <string name="enter_your_note_here">Enter your note here</string>
+</resources>
