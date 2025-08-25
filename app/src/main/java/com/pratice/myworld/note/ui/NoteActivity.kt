@@ -34,7 +34,6 @@ class NoteActivity : AppCompatActivity(), NoteAdapter.NotesClickListener {
     private lateinit var binding: ActivityNoteBinding
     private lateinit var noteDao: NoteDao
 
-    //    private lateinit var recyclerView: RecyclerView
     private lateinit var noteAdapter: NoteAdapter
     private lateinit var database: NoteDataBase
     private var notes: MutableList<Notes> = ArrayList()
